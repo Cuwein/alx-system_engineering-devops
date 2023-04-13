@@ -1,1 +1,2 @@
-Something is in this file
+#!/bin/bash
+pwd
